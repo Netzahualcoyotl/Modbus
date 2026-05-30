@@ -26,7 +26,7 @@
 #include <stdio.h>      /* Standard input/output */
 #include <string.h>
 #include <stdlib.h>
-#include <termio.h>     /* POSIX terminal control definitions */
+#include <termios.h>    /* POSIX terminal control definitions */
 #include <sys/time.h>   /* Time structures for select() */
 #include <unistd.h>     /* POSIX Symbolic Constants */
 #include <assert.h>
